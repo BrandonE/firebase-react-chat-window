@@ -11,9 +11,9 @@ An implementation of [kingofthestack/react-chat-window](https://github.com/kingo
 
 1. Follow [these steps](https://firebase.google.com/docs/web/setup) to create a Firebase project, register an app with Firebase, and retrieve your Firebase config object.
 
-- Create a new file called `./src/firebase.json` containing your Firebase config object.
+2. Create a new file called `./src/firebase.json` containing your Firebase config object.
 
-- Run the following commands:
+3. Run the following commands:
 
 ```bash
 yarn
